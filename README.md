@@ -1,0 +1,2 @@
+# JavaPaint-App
+This is the code for a simple drawing application that I created in my course on Java. The app can draw lines, ovals, and rectangles, using a combination of up to two colors. The lines can be either dashed or solid, and the shapes can either be outlines or filled. The app also lets you change the width of a line and its dashes, which can be used to create a variety of basic artwork.
